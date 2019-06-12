@@ -6,3 +6,6 @@ theme: jekyll-theme-midnight
 github:
   owner_name: Holger Ihrig
   owner_url: https://hoihrig.github.io
+
+plugins:
+  - jekyll-feed
