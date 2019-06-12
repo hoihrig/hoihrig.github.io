@@ -6,6 +6,9 @@ theme: jekyll-theme-midnight
 github:
   owner_name: Holger Ihrig
   owner_url: https://hoihrig.github.io
+paginate: 5
+
 
 plugins:
   - jekyll-feed
+  - jekyll-paginate
