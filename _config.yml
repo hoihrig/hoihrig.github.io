@@ -1,1 +1,8 @@
+title: Technical Ramblings
+description: Technical Ramblings of a cloud infrastructure engineer
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-midnight
+github:
+  owner_name: Holger Ihrig
+  owner_url: https://hoihrig.github.io
